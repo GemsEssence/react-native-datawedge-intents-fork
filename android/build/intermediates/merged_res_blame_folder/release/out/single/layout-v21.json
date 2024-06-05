@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.darryncampbell.rndatawedgeintents.react-native-datawedge-intents-merged_res-24:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.darryncampbell.rndatawedgeintents.react-native-datawedge-intents-core-1.9.0-6:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.darryncampbell.rndatawedgeintents.react-native-datawedge-intents-merged_res-24:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.darryncampbell.rndatawedgeintents.react-native-datawedge-intents-core-1.9.0-6:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.darryncampbell.rndatawedgeintents.react-native-datawedge-intents-merged_res-24:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.darryncampbell.rndatawedgeintents.react-native-datawedge-intents-core-1.9.0-6:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.darryncampbell.rndatawedgeintents.react-native-datawedge-intents-merged_res-24:/layout-v21/notification_action.xml",
+        "source": "com.darryncampbell.rndatawedgeintents.react-native-datawedge-intents-core-1.9.0-6:/layout-v21/notification_action.xml"
+    }
+]
